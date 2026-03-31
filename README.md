@@ -17,9 +17,9 @@ Pittsburgh, PA · zahinp7@gmail.com · [LinkedIn](https://linkedin.com/in/zahin-
 ---
 
 ### Featured Projects
-
 | Project | Description | Stack |
 |---|---|---|
+| [RNA-seq BRCA Pipeline](https://github.com/zahinp7/RNA-seq-BRCA-pipeline) | End-to-end bulk RNA-seq pipeline — tumor vs normal DE analysis, 1,570 DEGs, 837 GO terms, 68 KEGG pathways | Bash · STAR · DESeq2 · clusterProfiler · R |
 | [BRCA ER Classification](https://github.com/zahinp7/BRCA) | Multi-omics breast cancer classification (2,000+ samples) — ROC-AUC 0.919 | Python · XGBoost · SHAP · scikit-learn |
 | [ATAC-seq Pipeline](https://github.com/zahinp7/ATAC-seq-regulatory-element-pipeline) | Cross-species regulatory element analysis, 500K+ peaks, human & mouse liver/pancreas | Bash · BEDTools · HALPER · MEME-ChIP · R |
 | [ProGen2 Fine-tuning](https://github.com/zahinp7/progen2-gfp) | Fine-tuning a protein language model on GFP sequence-function data | Python · PyTorch · ProGen2 |
