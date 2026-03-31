@@ -1,7 +1,7 @@
 ## Zahin Peerzade
 
 **M.S. Quantitative Biology & Bioinformatics · Carnegie Mellon University (Dec 2025)**  
-Computational biologist working at the intersection of machine learning and biology —  
+Computational biologist working at the intersection of machine learning and biology - 
 NGS pipelines, protein language models, and ML-driven genomic analysis.
 
 Pittsburgh, PA · zahinp7@gmail.com · [LinkedIn](https://linkedin.com/in/zahin-peerzade/)
