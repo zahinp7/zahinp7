@@ -48,16 +48,17 @@ Molecular docking and cheminformatics screening of 50,000+ small molecules; Pyth
 
 ### Skills
 
-**Languages:** `Python` `R` `Bash` `Unix/Linux` `Git`
+**Programming & Scripting:** `Python` `R` `Bash` `Unix/Linux` `Git/GitHub`
 
-**ML & DL:** `scikit-learn` `PyTorch` `TensorFlow` `ESM3` `ProGen2` `AlphaFold2/3`
+**ML & Deep Learning:** `scikit-learn` `PyTorch` `TensorFlow` `ESM3` `AlphaFold3` `cross-validation` `feature engineering`
 
-**NGS/Omics:** `RNA-seq` `ATAC-seq` `ChIP-seq` `STAR` `HISAT2` `DESeq2` `MACS2` `HOMER` `GSEA` `clusterProfiler`
+**NGS & Omics:** `RNA-seq` `ATAC-seq` `ChIP-seq` `FastQC/MultiQC` `fastp` `trimmomatic` `STAR` `HISAT2` `BWA` `Salmon` `featureCounts` `DESeq2` `GSEA` `clusterProfiler`
 
-**Structural Bio:** `PyMol` `protein interface analysis` `evolutionary conservation`
+**Structural & Protein Bioinformatics:** `AlphaFold2/3` `ESM3` `PyMol` `protein interface analysis` `evolutionary conservation`
 
-**HPC:** `SLURM` `Bridges-2 (PSC)` `Pitt CRC`
+**Data Science & Analytics:** `Pandas` `NumPy` `Matplotlib` `Seaborn` `statistical modeling` `EDA` `hypothesis testing`
 
+**HPC:** `SLURM` `Bridges-2 (PSC)` `Pitt CRC` `shell scripting`
 <!--
 **zahinp7/zahinp7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
