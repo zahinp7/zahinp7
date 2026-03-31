@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Hi, I'm Zahin 👋
 
 **M.S. Quantitative Biology & Bioinformatics · Carnegie Mellon University (Dec 2025)**  
