@@ -29,13 +29,13 @@ Pittsburgh, PA · zahinp7@gmail.com · [LinkedIn](https://linkedin.com/in/zahin-
 ---
 
 ### Research Experience
-**Koes Lab & Cell Migration Lab · University of Pittsburgh** *(Aug–Dec 2025)*  
+**Koes Lab & Cell Migration Lab · University of Pittsburgh** *(Aug-Dec 2025)*  
 Protein interface modeling (AlphaFold, PyMol), TF binding pattern analysis, Python pipelines for regulatory genomics
 
-**Zhao Biophotonics Lab · Carnegie Mellon University** *(Jan–Aug 2025)*  
+**Zhao Biophotonics Lab · Carnegie Mellon University** *(Jan-Aug 2025)*  
 ML-guided JC virus VP1 capsid variant design using ESM3; structural stability evaluation and evolutionary conservation analysis
 
-**ICMR · National Institute of Traditional Medicine** *(Jul 2022–Jun 2023)*  
+**Indian Council of Medical Research** *(Jul 2022-Jun 2023)*  
 Molecular docking and cheminformatics screening of 50,000+ small molecules; Python/R-based compound prioritization
 
 ---
