@@ -9,7 +9,7 @@ Pittsburgh, PA · zahinp7@gmail.com · [LinkedIn](https://linkedin.com/in/zahin-
 
 ### What I work on
 - **NGS pipelines** - bulk RNA-seq, ATAC-seq, ChIP-seq end-to-end (FastQC, STAR, DESeq2, GSEA, MACS2, HOMER); immunotherapy response characterization from pre-treatment tumor biopsies
-- **ML for genomics** - cancer subtype & tumor grade classification, tissue classification from bulk RNA-seq, clinical phenotype prediction
+- **ML for genomics** - cancer subtype and tumor grade classification, tissue classification from bulk RNA-seq, clinical phenotype prediction
 - **Protein language models** - ESM3, ProGen2 fine-tuning; protein interface analysis, structural visualization (PyMol, AlphaFold2/3)
 - **Compound screening** - molecular docking workflows (AutoDock), cheminformatics
 
